@@ -1,8 +1,0 @@
-streamlit
-fastapi
-uvicorn
-requests
-joblib
-scikit-learn
-pandas
-numpy
